@@ -4,7 +4,7 @@ This is a GUI Music Player with minimal functions built using Python.
 
 The modules used in the program is Pygame and Tkinter.
 
-The application allows user to slect a certain folder that contains the songs.The functions provided in the app are:
+The application allows user to select a certain folder that contains the songs.The functions provided in the app are:
 
 1)Play the song
 
